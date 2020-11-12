@@ -1,4 +1,13 @@
-# Globalize Versioning [![Build Status](https://travis-ci.org/globalize/globalize-versioning.png?branch=master)](https://travis-ci.org/globalize/globalize-versioning)
+## EVERFI: You probably should not use this fork of globalize-versioning!
+
+This repo is a fork of [a fork](https://github.com/TerraCycle/globalize-versioning/) which made the original/canonical [globalize-versioning](https://github.com/globalize/globalize-versioning/) gem Rails 5 compatible. This repo was moot once [globalize-versioning](https://github.com/globalize/globalize-versioning/) 0.3.0 was released, but we didn't realize it and kept using our fork of a fork.
+
+These are the globalize/globalize-versioning versions you can use depending on your app's Rails version:
+
+* **Rails 5.x**: globalize-versioning >= 0.3.0
+* **Rails 6.x**: globalize-versioning >= 0.4.0
+
+# Globalize Versioning 
 
 ## Introduction
 
